@@ -1,3 +1,3 @@
-insert into user values(101,'assskk.com','Richa','Chadda','admin','ssn101'),
-insert into user values(102,'assyuskk.com','Usha','Singh','admin','ssn102'),
-insert into user values(103,'ass89skk.com','Asha','Jha','admin','ssn103')
+insert into user values(101,'rsingh','Richa','Chadda','assskk.com','admin','ssn101');
+insert into user values(102,'uschhda','Usha','Singh','assyuskk.com','admin','ssn102');
+insert into user values(103,'ajha','Asha','Jha','ass89skk.com','admin','ssn103');
